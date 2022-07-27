@@ -20,6 +20,12 @@ const aboutMe = {
 
 ![devBorisG's github stats](https://github-readme-stats.vercel.app/api?username=devBorisG&show_icons=true&theme=merko)
 
+</br></br>
+
+<h2>🔝 Top Languages 🔝</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBorisG&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ⭐️ From [devBorisG](https://github.com/devBorisG) inspired by [reeveng](https://github.com/reeveng)
