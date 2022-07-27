@@ -17,19 +17,14 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["Student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "Improve myself in my knowledge.",
 };
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![devBorisG's github stats](https://github-readme-stats.vercel.app/api?username=devBorisG&show_icons=true&theme=merko)
-
-</br></br>
-
-<h2>🔝 Top Languages 🔝</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBorisG&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devBorisG&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBorisG&layout=compact&theme=onedark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 
