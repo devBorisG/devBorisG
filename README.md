@@ -24,8 +24,6 @@ const aboutMe = {
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devBorisG&show_icons=true&theme=onedark&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBorisG&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐️ From [devBorisG](https://github.com/devBorisG) inspired by [reeveng](https://github.com/reeveng) and [anuraghazra](https://github.com/anuraghazra)
