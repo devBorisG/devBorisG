@@ -6,7 +6,6 @@
 
 <p>-🧑‍🎓 A systems engineer student at <a href="https://www.uco.edu.co/">Universidad Católica de Oriente</a>.</br>
 -👨‍💻 Software and Mobile Developer student.</br>
--Improving day by day.😊</br></p>
 
 
 ```javascript
