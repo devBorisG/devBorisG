@@ -1,7 +1,12 @@
 ### Hi, I'm David 🧑‍💻
 
-<p><em>A systems engineer student at <a href="https://www.uco.edu.co/">Universidad Católica de Oriente</a>.</br>Software and Mobile Developer student.</br></br>Improving day by day😊</br>
-</em></p>
+</br>
+
+**About Me**
+
+<p>-🧑‍🎓 A systems engineer student at <a href="https://www.uco.edu.co/">Universidad Católica de Oriente</a>.</br>
+-👨‍💻 Software and Mobile Developer student.</br>
+-Improving day by day.😊</br></p>
 
 
 ```javascript
@@ -28,4 +33,4 @@ const aboutMe = {
 
 ---
 
-⭐️ From [devBorisG](https://github.com/devBorisG) inspired by [reeveng](https://github.com/reeveng)
+⭐️ From [devBorisG](https://github.com/devBorisG) inspired by [reeveng](https://github.com/reeveng) and [anuraghazra](https://github.com/anuraghazra)
