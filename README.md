@@ -19,7 +19,7 @@ const aboutMe = {
    challenge: "Improve myself in my knowledge.",
 };
 ```  
-<h2>💻 Some stats 💻</h2>
+<h2>💻 Some Stats 💻</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devBorisG&show_icons=true&theme=onedark&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBorisG&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
