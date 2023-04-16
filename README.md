@@ -10,8 +10,9 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Python, Java, Kotlin, Csharp],
+      pronouns: "he" | "him",
+      code: [Python, Java, Kotlin, C++],
+      frameworks: [Spring Boot], 
       databases: ["PostgreSQL", "mySQL", "SQLServer"],
       mobile: ["Android"]
    },
