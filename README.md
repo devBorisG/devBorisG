@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Andrés Valencia García</h1>
-<h3>About Me</h3>
+<h3>About me</h3>
 <p>🧑‍🎓 A systems engineer student at <a href="https://www.uco.edu.co/">Universidad Católica de Oriente</a>.</p>
 <p>👨‍💻 Software and Mobile Developer student.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devborisg&label=Profile%20views&color=0e75b6&style=flat" alt="devborisg" /> </p>
@@ -24,9 +24,20 @@
 <h2>💻 Some Stats 💻</h2>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devborisg&" alt="devborisg" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devborisg&show_icons=true&locale=en" alt="devborisg" /></p> |
-| ------------- | ------------- |
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devborisg&show_icons=true&locale=en&layout=compact" alt="devborisg" /></p> |
-| ------------- |
-
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center">
+                <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devborisg&" alt="devborisg" /></p>
+            </td>
+            <td>
+                <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devborisg&show_icons=true&locale=en" alt="devborisg" /></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan=2 align="center">
+                <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devborisg&show_icons=true&locale=en&layout=compact" alt="devborisg" /></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
