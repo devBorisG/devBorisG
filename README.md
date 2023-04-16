@@ -26,6 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devborisg&" alt="devborisg" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devborisg&show_icons=true&locale=en" alt="devborisg" /></p> |
 | ------------- | ------------- |
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devborisg&show_icons=true&locale=en&layout=compact" alt="devborisg" /></p> |
 | ------------- |
 
