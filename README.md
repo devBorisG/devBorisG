@@ -28,15 +28,15 @@
     <tbody>
         <tr>
             <td align="center">
-                <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devborisg&" alt="devborisg" /></p>
+                <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=devborisg&theme=dark" alt="devborisg" /></p>
             </td>
             <td>
-                <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devborisg&show_icons=true&locale=en" alt="devborisg" /></p>
+                <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devborisg&show_icons=true&locale=en&theme=dark" alt="devborisg" /></p>
             </td>
         </tr>
         <tr>
             <td colspan=2 align="center">
-                <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devborisg&show_icons=true&locale=en&layout=compact" alt="devborisg" /></p>
+                <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devborisg&show_icons=true&locale=en&layout=compact&theme=dark" alt="devborisg" /></p>
             </td>
         </tr>
     </tbody>
