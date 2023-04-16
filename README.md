@@ -16,6 +16,8 @@
 <a href="https://www.hackerrank.com/david_andres_281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@david_andres_281" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/borisg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="borisg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davidvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidvg" height="30" width="40" /></a>
+<a href="https://twitter.com/borisg_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="borisg_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/borisn't#4337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="borisn't#4337" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
