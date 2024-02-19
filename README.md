@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Andrés Valencia García</h1>
 <h3>About me</h3>
 <p>🧑‍🎓 A systems engineer student at <a href="https://www.uco.edu.co/">Universidad Católica de Oriente</a>.</p>
-<p>👨‍💻 Software and Mobile Developer student.</p>
+<p>👨‍💻 Software and Mobile Developer.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devborisg&label=Profile%20views&color=0e75b6&style=flat" alt="devborisg" /> </p>
 <hr>
 
